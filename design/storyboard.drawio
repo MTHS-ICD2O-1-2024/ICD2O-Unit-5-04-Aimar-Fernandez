@@ -1,11 +1,69 @@
 <mxfile host="65bd71144e">
     <diagram id="HIP3nbAZw_EuaXWnEj3U" name="Page-1">
-        <mxGraphModel dx="399" dy="236" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+        <mxGraphModel dx="467" dy="334" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
-                <mxCell id="7" value="http://ics2o.mths.ca" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                <mxCell id="7" value="http://ics2o.mths.ca" style="swimlane;whiteSpace=wrap;html=1;" parent="1" vertex="1">
                     <mxGeometry x="40" y="40" width="760" height="480" as="geometry"/>
+                </mxCell>
+                <mxCell id="8" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;Museum Entry Discount Program&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="7">
+                    <mxGeometry y="20" width="320" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="11" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="7">
+                    <mxGeometry width="100" relative="1" as="geometry">
+                        <mxPoint y="60" as="sourcePoint"/>
+                        <mxPoint x="760.714111328125" y="60" as="targetPoint"/>
+                        <Array as="points"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="12" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;Enter your age&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="7">
+                    <mxGeometry y="70" width="120" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="14" value="&lt;u&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;Age...&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;/font&gt;&lt;/u&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="7">
+                    <mxGeometry x="20" y="110" width="170" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="15" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;Enter the day of the week for your visit&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="7">
+                    <mxGeometry y="150" width="280" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="17" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="7">
+                    <mxGeometry x="20" y="190" width="20" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="18" value="Sunday&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;Monday&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;Tuesday&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;Wednesday" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="7">
+                    <mxGeometry x="30" y="185" width="330" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="19" value="Thursday&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;Friday&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;Saturday" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="7">
+                    <mxGeometry x="30" y="225" width="230" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="20" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="7">
+                    <mxGeometry x="100" y="190" width="20" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="21" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="7">
+                    <mxGeometry x="180" y="190" width="20" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="22" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="7">
+                    <mxGeometry x="260" y="190" width="20" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="23" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="7">
+                    <mxGeometry x="20" y="230" width="20" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="24" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="7">
+                    <mxGeometry x="100" y="230" width="20" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="25" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="7">
+                    <mxGeometry x="180" y="230" width="20" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="26" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=data:image/png,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;" vertex="1" parent="7">
+                    <mxGeometry x="535" y="70" width="225" height="225" as="geometry"/>
+                </mxCell>
+                <mxCell id="27" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;You&#39;re eligible for student pricing&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="7">
+                    <mxGeometry x="10" y="280" width="240" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="29" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;You must pay regular pricing&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="7">
+                    <mxGeometry x="10" y="350" width="210" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="30" value="&lt;font style=&quot;color: rgb(199, 199, 199);&quot;&gt;OR&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="7">
+                    <mxGeometry x="20" y="320" width="40" height="30" as="geometry"/>
                 </mxCell>
             </root>
         </mxGraphModel>
