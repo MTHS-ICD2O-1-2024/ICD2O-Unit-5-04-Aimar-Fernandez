@@ -6,10 +6,16 @@
 
 "use strict"
 
-const positiveNumber = 0
-
 function myButtonClicked() {
   const ageNumber = document.getElementById("age-number").value
-  const day = document.getElementsByName("weekday").value
-  document.getElementById("answer").innerHTML = day
+  const tuesday = document.getElementById("tuesday").checked
+  const thursday = document.getElementById("thursday").checked
+  if ((tuesday == true || thursday == true) || (ageNumber > 12 && ageNumber < 21)) {
+    document.getElementById("answer").innerHTML = 
+      "<p>You're eligible forr student pricing</p>"
+  }
+  else {
+    document.getElementById("answer").innerHTML = 
+      "<p>You must pay regular pricing</p>"
+  }
 }
