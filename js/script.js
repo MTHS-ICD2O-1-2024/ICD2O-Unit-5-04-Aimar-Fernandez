@@ -12,7 +12,7 @@ function myButtonClicked() {
   const thursday = document.getElementById("thursday").checked
   if ((tuesday == true || thursday == true) || (ageNumber > 12 && ageNumber < 21)) {
     document.getElementById("answer").innerHTML = 
-      "<p>You're eligible forr student pricing</p>"
+      "<p>You're eligible for student pricing</p>"
   }
   else {
     document.getElementById("answer").innerHTML = 
